@@ -54,7 +54,7 @@ rightNavigationButtons:
 
 # Hero Block
 #heroImage: "hero.jpg"
-heroTitle: Gore <typeout> 19"
+heroTitle: Gore <typeout> 19
 eventDate: "Jueves 6 y Viernes 7 de Abril, 2017"
 typeoutTextValues: '"", "Barcelona", "CSUC", "CATNIX"'
 typeoutFallback: "Barcelona"
