@@ -36,7 +36,7 @@ socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
-c4pUrl: "https://bit.ly/dfua-c4p"
+c4pUrl: "mailto:gore-org@esnog.net"
 c4sponsorsUrl: "mailto:gore-org@esnog.net"
 
 
@@ -48,9 +48,9 @@ navigationLinks:
 # - {permalink: "/team/", text: "Equipo"}
  - {permalink: "/logistics/", text: "Logística"}
 bottomNavigationLinks:
- - {link: "mailto:gore-org@esnog.net", text: "Conviertase en patrocinador"}
+ - {link: "mailto:gore-org@esnog.net", text: "¿Quiere ser patrocinador?"}
 rightNavigationButtons:
- - {link: "mailto:gore-org@esnog.net", text: "Conviertase en patrocinador"}
+ - {link: "mailto:gore-org@esnog.net", text: "¿Quiere ser patrocinador?"}
 
 # Hero Block
 #heroImage: "hero.jpg"
@@ -61,6 +61,7 @@ typeoutFallback: "Barcelona"
 heroButtons:
  - {link: "http://www.esnog.net/gore19/gore19-participar-habilitado.html", text: "Incripción"}
  - {link: "http://www.esnog.net/gore19/lista.html", text: "Listado de asistentes"}
+ - {link: "mailto:gore-org@esnog.net", text: "¿Quiere ser ponente?"}
 
 # About Block
 aboutTitle: "Acerca de GORE 19"
@@ -82,7 +83,7 @@ latestNewsTitle: "Últimas noticias"
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
-rockstarSpeakersCount: 9
+rockstarSpeakersCount: 4
 rockstarSpeakersTitle: "Ponentes"
 rockstarSpeakersButtonText: "Más información"
 
@@ -106,7 +107,7 @@ mapMobileCenterCoordinates: "41.387324, 2.111869"
 venueBlockTitle: "Recinto"
 venueBigImage: "venue_0.jpg"
 venueSmallImage1: "venue_1.jpg"
-#venueSmallImage2: "venue_2.jpg"
+venueSmallImage2: "venue_2.jpg"
 #venueSmallImage3: "venue_3.jpg"
 venueTitle: "CSUC/CATNIX"
 venueFeatures: ["10.000 m2 construidos con forma cilíndrica", "Espacios de encuentro y meeting corners", "Entorno de investigación colaborativa e innovación."]

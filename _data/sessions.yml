@@ -76,10 +76,18 @@
   presentation: "http://www.esnog.net/gore19/gore19-files/no_presentacion.html"
 -
   id: 203
+  title: "Mitigación de DDoS en la Anella Científica"
+  description: "Mitigación de DDoS en la Anella Científica"
+  subtype: presentation
+  speakers: [8]
+  language: es
+  presentation: "http://www.esnog.net/gore19/gore19-files/no_presentacion.html"
+-
+  id: 204
   title: "Euro-IX"
   description: "Euro-IX"
   subtype: presentation
-  speakers: [8]
+  speakers: [9]
   language: en
   presentation: "http://www.esnog.net/gore19/gore19-files/no_presentacion.html"
 -

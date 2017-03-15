@@ -95,6 +95,17 @@ You can find me on LinkedIn or Twitter (@ioc32) and I can also provide reference
     - {name: "twitter", link: "https://twitter.com/ioc32"}
 -
   id: 8
+  name: "Maria Isabel"
+  surname: "Gandía"
+  company: "CSUC"
+  title: "Jefa de Comunicaciones"
+  bio: ""
+  thumbnailUrl: MariaIsabelGandia.jpg
+  rockstar: true
+  social:
+    - {name: "site", link: "http://www.csuc.cat/es/personal/gandia-carriedo-ma-isabel"}
+-
+  id: 9
   name: "Rebecca"
   surname: "Class-Peter"
   company: "Euro-IX"
