@@ -108,7 +108,7 @@ venueBlockTitle: "Recinto"
 venueBigImage: "venue_0.jpg"
 venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
-#venueSmallImage3: "venue_3.jpg"
+venueSmallImage3: "venue_3.jpg"
 venueTitle: "CSUC/CATNIX"
 venueFeatures: ["10.000 m2 construidos con forma cilíndrica", "Espacios de encuentro y meeting corners", "Entorno de investigación colaborativa e innovación."]
 
