@@ -116,7 +116,7 @@ venueFeatures: ["10.000 m2 construidos con forma cilíndrica", "Espacios de encu
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "¿Que está pasando?"
 twitterHashTag: "esnog19"
-twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
+#twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
 
 # Partners Block
 organizersTitle: "Organizadores"
