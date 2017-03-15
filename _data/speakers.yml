@@ -2,7 +2,7 @@
   id: 1
   name: "Moisés"
   surname: "Barrio"
-  company: "Gobierno de España"
+  # company: "Gobierno de España"
   title: "Letrado del Consejo de Estado"
   bio: "Moisés Barrio Andrés es Letrado del Consejo de Estado, Doctor en Derecho por la Universidad Carlos III de Madrid, Máster en Investigación en Ciencias Jurídicas por ICADE, ESADE y Deusto, y Licenciado en Derecho por ICADE (E-1)."
   thumbnailUrl: MoisesBarrio.png
@@ -13,8 +13,8 @@
   id: 2
   name: "Juan Camilo"
   surname: "Cardona"
-  company: "Cisco Systems/UC3M/IMDEA Networks"
-  title: "Letrado del Consejo de Estado"
+  company: "Cisco Systems"
+  title: "Software Engineer"
   bio: "Juan Camilo Cardona received the degree in telecommunications engineering from the University Santo Tomas, Bogotá Colombia, and the M.Sc. degree in communications engineering from the Technische Universitat Munchen, Munchen, Germany, in 2008. His research interests include network management and data analysis. He is currently working for Cisco Systems, as a Software Engineer. Before joining Cisco Systems, he worked as a Ph.D student at IMDEA Networks, and as a Network Engineer at various Internet service providers and network integrators."
   thumbnailUrl: JuanCamiloCardona.png
   rockstar: true

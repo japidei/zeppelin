@@ -45,7 +45,7 @@ navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/schedule/", text: "Agenda"}
  - {permalink: "/speakers/", text: "Ponentes"}
-# - {permalink: "/team/", text: "Equipo"}
+ - {permalink: "/team/", text: "Organizadores"}
  - {permalink: "/logistics/", text: "Logística"}
 bottomNavigationLinks:
  - {link: "mailto:gore-org@esnog.net", text: "¿Quiere ser patrocinador?"}
@@ -53,7 +53,7 @@ rightNavigationButtons:
  - {link: "mailto:gore-org@esnog.net", text: "¿Quiere ser patrocinador?"}
 
 # Hero Block
-#heroImage: "hero.jpg"
+heroImage: "hero-nexus.jpg"
 heroTitle: Gore <typeout> 19
 eventDate: "Jueves 6 y Viernes 7 de Abril, 2017"
 typeoutTextValues: '"", "Barcelona", "CSUC", "CATNIX"'
@@ -66,9 +66,9 @@ heroButtons:
 # About Block
 aboutTitle: "Acerca de GORE 19"
 aboutBlock:
- - {title: "Reunión", image: "conference.jpg", text: "ESNOG (España Network Operators Group / Grupo de Operadores de Red Españoles) celebrará su decimonovena reunión el Jueves 6 de Abril y Viernes 7 de Abril de 2017 en el CSUC/CATNIX" }
- - {title: "Presentaciones", image: "workshop.jpg", text: "Dos dias en las que tendremos un total de 9 presentaciones." }
- - {title: "Evento Social", image: "hackathon.jpg", text: "En esta ocasión contamos con el patrocinio de F5 para el evento social. El Día 6 tendrá lugar una cena en un restaurante que anunciaremos en breve." }
+ - {title: "Reunión", image: "esnog.png", text: "ESNOG (España Network Operators Group / Grupo de Operadores de Red Españoles) celebrará su decimonovena reunión el Jueves 6 de Abril y Viernes 7 de Abril de 2017 en el CSUC/CATNIX" }
+ - {title: "Presentaciones", image: "presentaciones.png", text: "Dos dias en las que tendremos un total de 9 presentaciones." }
+ - {title: "Evento Social", image: "evento-social.jpg", text: "En esta ocasión contamos con el patrocinio de F5 para el evento social. El Día 6 tendrá lugar una cena en un restaurante que anunciaremos en breve." }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
@@ -121,7 +121,7 @@ twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_int
 # Partners Block
 organizersTitle: "Organizadores"
 partnersTitle: "Patrocinadores"
-partnersC4sponsorsButton: "Conviertase en patrocinador"
+partnersC4sponsorsButton: "¿Quiere ser patrocinador?"
 
 # Subscribe Block
 subscribeImage: "subscribe.jpg"
