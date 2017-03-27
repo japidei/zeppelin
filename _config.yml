@@ -53,7 +53,7 @@ rightNavigationButtons:
  - {link: "mailto:gore-org@esnog.net", text: "¿Quiere ser patrocinador?"}
 
 # Hero Block
-heroImage: "hero-nexus.jpg"
+heroImage: "hero-annexus.jpg"
 heroTitle: Gore <typeout> 19
 eventDate: "Jueves 6 y Viernes 7 de Abril, 2017"
 typeoutTextValues: '"", "Barcelona", "CSUC", "CATNIX"'
